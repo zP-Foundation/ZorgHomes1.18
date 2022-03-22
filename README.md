@@ -19,4 +19,8 @@
 
 <h2>FarFuture:</h2>
  <h4>Filter for Homes, Maybe Tags and Category sorting</h4>
+ 
+ updated & active: https://www.curseforge.com/minecraft/bukkit-plugins/zorghomes
+ 
+ old & inactive: https://www.spigotmc.org/resources/zorg-homes.94331/
 <h1>########################################################</h1>
