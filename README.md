@@ -1,12 +1,14 @@
-################
-Welcome to Zorg Homes, a fast, scalable Home Plugin.
+<h1>################</h1>
+<h3>Welcome to Zorg Homes, a fast, scalable Home Plugin.</h3>
 
-Now:
- Fast Homemanagment for players who have the desire to set over 100 Homes
+<2h>Now:</h2>
+ <h3>Fast Homemanagment for players who have the desire to set over 100 Homes</h3>
  
-Commands:
- /sethome Homename //Adds or Overwrites a Home
- /sethome          //Set Default Home
+<h2>Commands:</h2>
+ <tr>
+ <td>/sethome Homename //Adds or Overwrites a Home</td>
+ <td>/sethome          //Set Default Home</td>
+ </tr>
  /home             //Teleports to Default Home
  /home Homename    //Teleports you to your desired Home
  /homes            //List ALL of your homes
