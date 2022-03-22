@@ -1,0 +1,21 @@
+## YAML Template.
+---
+
+name: ZorgHomes
+version: 2
+load: POSTWORLD
+author: Bchru
+main: whitephoenix.online.ZorgHomes
+database: true
+
+commands:
+  sethome:
+    description: /sethome homename | Sets a new home
+  homes:
+    description: /homes | List all your homes
+  home:
+    description: /home homename | Teleports you to a home
+  delhome:
+    description: /delhome homename | Deletes a home
+  homeshelp:
+    description: Shows help for Zorg Homes
